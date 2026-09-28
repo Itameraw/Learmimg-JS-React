@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.nav {
+  display: flex;
+}
+.buttonHolder {
+  display: flex;
+  justify-content: space-between;
+}
+.sunMoonIc {
+  width: 40px;
+  height: 40px;
+  padding-right: 10%;
+}
+.iconAndLogo {
+  display: flex;
+  justify-content: space-between;
+}
+.popUpWrapper {
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  position: absolute;
+  background-color: #fdfafa6b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.popUpContent {
+  height: 70px;
+  width: 200px;
+  background-color: whitesmoke;
+  border: 1px solid gray;
+  border-radius: 2px;
+  box-shadow: 1px 1px black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+}
+.closePopUp {
+  cursor: pointer;
+}

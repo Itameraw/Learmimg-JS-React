@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.nav {
+  display: flex;
+}

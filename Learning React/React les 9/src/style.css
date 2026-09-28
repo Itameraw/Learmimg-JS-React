@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.header {
+  position: absolute;
+  left: 50%;
+}
+.Modal {
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  position: absolute;
+  background-color: #fdfafa6b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

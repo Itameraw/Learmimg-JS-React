@@ -1,0 +1,12 @@
+.heart-active {
+  color: red;
+}
+.buttons {
+  display: flex;
+}
+.buttonHolder {
+  display: flex;
+}
+a {
+  text-decoration: none;
+}

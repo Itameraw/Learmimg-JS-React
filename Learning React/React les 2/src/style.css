@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: skyblue;
+}
+.header {
+  position: absolute;
+  left: 50%;
+}

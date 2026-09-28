@@ -1,0 +1,35 @@
+body {
+  margin: 100px;
+}
+.heart-active {
+  color: red;
+}
+.buttons {
+  display: flex;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+a {
+  text-decoration: none;
+}
+.log {
+  width: 60px;
+  height: 50px;
+}
+.buttonHolder {
+  margin: 10px;
+}
+.Bookmark {
+  margin-right: 10px;
+}
+.search {
+  margin-left: 600px;
+  justify-content: center;
+}
+input {
+}
+.titleAndHeart {
+  display: flex;
+}
